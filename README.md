@@ -1,5 +1,3 @@
 # TP-Arqui
 
-Matias Heimann
-Lorant Mikolas
-Johnathan Katan
+Operating system made for the Operating Systems course at ITBA
